@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br />
-if its give error like npm ERR! Failed at the my-app@0.1.0 start script. then run the following cpmmand to resolve it <br />
+if its give error like npm ERR! Failed at the my-app@0.1.0 start script. then run the following command to resolve it <br />
 npm install --save react react-dom react-scripts
 
 The page will reload if you make edits.<br />
